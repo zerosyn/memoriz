@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"change_border_color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wr",
+				"wrap_css"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"nav",
+				"nav_css"
+			],
+			[
+				"but",
+				"button_list"
+			],
+			[
+				"btn",
+				"btn_cfg"
+			],
+			[
+				"Set",
+				"SetBitmapFocus  (function)"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"c",
+				"callback_list"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"SetSi",
+				"SetSizer  (function)"
+			],
+			[
+				"mov",
+				"MoveXY  (function)"
+			],
+			[
+				"Fit",
+				"FitInside  (function)"
+			],
+			[
+				"size",
+				"BestSize  (variable)"
+			],
+			[
+				"Sync",
+				"SyncCallback"
+			],
+			[
+				"res",
+				"result_map"
+			],
+			[
+				"SetBit",
+				"SetBitmapHover  (function)"
+			],
+			[
+				"del",
+				"del_button"
+			],
+			[
+				"EVT_",
+				"EVT_LEFT_UP  (variable)"
+			],
+			[
+				"Fi",
+				"FinishEditAll  (function)"
+			],
+			[
+				"memo",
+				"memo_list"
+			],
+			[
+				"selec",
+				"SelectAll  (function)"
+			],
+			[
+				"sync",
+				"synchronizer"
+			],
+			[
+				"Get",
+				"GetParent"
+			],
+			[
+				"getleft",
+				"GetPositionTuple  (function)"
+			],
+			[
+				"syn",
+				"synchronizer"
+			],
+			[
+				"tas",
+				"task_map"
+			],
+			[
+				"d",
+				"dumps  (function)"
+			],
+			[
+				"put",
+				"put_nowait  (function)"
+			],
+			[
+				"Fo",
+				"SetFocus  (function)"
+			],
+			[
+				"GetSiz",
+				"GetSizer  (function)"
+			],
+			[
+				"setsi",
+				"SetSizer  (function)"
+			],
+			[
+				"panel",
+				"Panel"
+			],
+			[
+				"key",
+				"keycode"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"wxk_en",
+				"WXK_RETURN  (variable)"
+			],
+			[
+				"EVT_KEY",
+				"EVT_KEY_UP  (variable)"
+			],
+			[
+				"Ex",
+				"EXPAND  (variable)"
+			],
+			[
+				"Ic",
+				"IsIconized  (function)"
+			],
+			[
+				"WXK",
+				"WXK_F5  (variable)"
+			],
+			[
+				"sc",
+				"scroll  (function)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"mb_con",
+				"mb_convert_encoding"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"thr",
+				"threshold_dist"
+			],
+			[
+				"tap",
+				"tapped"
+			],
+			[
+				"stop",
+				"stopBubble"
+			],
+			[
+				"height",
+				"height  (function)"
+			],
+			[
+				"random",
+				"randomTip"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"search",
+				"search_type"
+			],
+			[
+				"song",
+				"song_list"
+			],
+			[
+				"v",
+				"v2_flag"
+			],
+			[
+				"artist",
+				"artist_values"
+			],
+			[
+				"ar",
+				"artist_values"
+			],
+			[
+				"arti",
+				"artist_fields"
+			],
+			[
+				"quote",
+				"quoteJoin"
+			],
+			[
+				"hid",
+				"hideHelp"
+			],
+			[
+				"show",
+				"showHelp"
+			],
+			[
+				"help",
+				"help_dom"
+			],
+			[
+				"hide",
+				"hideTip"
+			],
+			[
+				"tip",
+				"tip_dom"
+			],
+			[
+				"ran",
+				"randomTip"
+			],
+			[
+				"_ren",
+				"_renderLoadingMore"
+			],
+			[
+				"cle",
+				"clean_keyword"
+			],
+			[
+				"li",
+				"liketype"
+			],
+			[
+				"la",
+				"lastupdate"
+			],
+			[
+				"_re",
+				"_renderHistory"
+			],
+			[
+				"err",
+				"error_fn"
+			],
+			[
+				"suc",
+				"success_fn"
+			],
+			[
+				"us",
+				"usingCache"
+			],
+			[
+				"late",
+				"latestParam"
+			],
+			[
+				"border-",
+				"border-style:   (property)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"$sub",
+				"$sub_list"
+			],
+			[
+				"V2",
+				"V2_EXIST"
+			],
+			[
+				"$v2",
+				"$v2_flag"
+			],
+			[
+				"background-c",
+				"background-color:   (property)"
+			],
+			[
+				"lo",
+				"log_song_page  (function)"
+			],
+			[
+				"USING",
+				"USING_SAE"
+			],
+			[
+				"$_",
+				"$_	SERVER['…']"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "windows/main.py",
+			"settings":
+			{
+				"buffer_size": 3312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windows/memo.py",
+			"settings":
+			{
+				"buffer_size": 4389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windows/sync.py",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windows/dialog.py",
+			"settings":
+			{
+				"buffer_size": 2840,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windows/resource.py",
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "windows/constant.py",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 262.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Dropbox/Project/home/index.html",
+		"/E/Dropbox/Project/home/style.css",
+		"/E/Dropbox/Project/home/script.js",
+		"/E/Dropbox/Project/tools/clip.html",
+		"/E/Dropbox/Project/home/dwi/dwi.html",
+		"/E/Dropbox/Project/history/dwi/dwi.html",
+		"/E/Dropbox/Project/history/index.html",
+		"/E/Dropbox/Project/python/autoreload.py",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/HtmlTidy.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/E/Dropbox/Project/tools/style.css",
+		"/E/Dropbox/Project/tools/clip.php",
+		"/E/Dropbox/Project/python/bird.py",
+		"/E/Dropbox/Project/python/test.py",
+		"/E/Dropbox/Project/memoriz/windows/test.py",
+		"/E/Dropbox/Project/memoriz/windows/constant.py",
+		"/E/Dropbox/Project/memoria/windows/main.py",
+		"/E/Dropbox/Project/memoria/windows/memo.py",
+		"/E/Dropbox/Project/memoria/windows/resource.py",
+		"/E/Dropbox/Project/memoria/server/sync.php",
+		"/E/Dropbox/Project/python/wxtest/test.py",
+		"/E/Dropbox/Project/python/wxtest/main.py",
+		"/E/Dropbox/Project/python/wxtest/memo.py",
+		"/E/Dropbox/Project/python/wxtest/test3.py",
+		"/E/Dropbox/Project/python/jjgirls.py",
+		"/E/Dropbox/Project/python/wxtest/test2.py",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Tag/Tag Package.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Tag Package.sublime-settings",
+		"/E/Dropbox/Project/python/wxtest/pyhk.py",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Python.sublime-settings",
+		"/E/Dropbox/Project/joysound/app/js/zepto.js",
+		"/E/Dropbox/Project/joysound/app/js/zepto.min.js",
+		"/E/Dropbox/Project/joysound/app/js/touch.js",
+		"/E/Dropbox/Project/joysound/python/test.py",
+		"/E/Dropbox/Project/joysound/app/js/jquery.fingers.js",
+		"/E/Dropbox/Project/joysound/app/js/tpl.js",
+		"/E/Dropbox/Project/joysound/app/js/jquery.ba-hashchange.min.js",
+		"/E/Dropbox/Project/joysound/app/test.htm",
+		"/E/Dropbox/Private/blog.htm",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/sublime-jslint.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Zero/Dropbox/Project/joysound/php/lib/Fetch.php",
+		"/D/Dropbox/Project/joysound/python/joysound2.py",
+		"/D/Dropbox/Project/joysound/python/bs4/testing.py",
+		"/D/Dropbox/Project/joysound/helper/index.py",
+		"/D/Dropbox/Project/joysound/js/core.js",
+		"/D/Dropbox/Project/joysound/style.css",
+		"/D/Dropbox/Project/joysound/index.htm",
+		"/D/Dropbox/Project/joysound/js/events.js",
+		"/D/Dropbox/Project/joysound/js/ui.js",
+		"/D/Dropbox/Project/joysound/js/data.js",
+		"/C/Users/Zero/Dropbox/Project/joysound/index.php",
+		"/C/Users/Zero/Dropbox/Project/joysound/js/controller.js",
+		"/C/Users/Zero/Dropbox/Project/joysound/lib/JSSearch.php",
+		"/C/Users/Zero/Dropbox/Project/joysound/framework.js",
+		"/D/www/joysound/1/lib/JSSearch.php",
+		"/D/www/joysound/1/lib/Log.php",
+		"/D/www/joysound/1/song/481225.htm",
+		"/D/www/joysound/1/song/621294.htm",
+		"/D/www/joysound/x/index.php",
+		"/D/www/joysound/x/joysound.php",
+		"/C/Users/Zero/Dropbox/jquery.ajaxmanager.js",
+		"/D/jquery.ajaxmanager.js",
+		"/D/www/joysound/1/framework.js",
+		"/D/www/joysound/1/api.php",
+		"/D/www/joysound/1/task.php",
+		"/D/www/joysound/1/lib/core.php",
+		"/C/Program Files/goagent/server/golang/fetch/fetch.go",
+		"/D/www/joysound/1/lib/config.php",
+		"/D/www/joysound/1/config.yaml",
+		"/D/www/joysound/1/lib/constants.php",
+		"/D/www/joysound/1/style.css",
+		"/D/www/joysound/1/lib/Analyse.php",
+		"/D/www/joysound/1/cron.php",
+		"/D/www/joysound/1/debug.php",
+		"/D/www/joysound/test.php",
+		"/D/www/joysound/joysound.php",
+		"/D/www/joysound/index.php",
+		"/D/www/joysound/style.css",
+		"/C/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/www/joysound/result.log",
+		"/D/www/joysound/keyword.log",
+		"/C/AppCan/ADK/emulator/disk/widgetone/widgetapp/test/android_iphone/index.html",
+		"/C/AppCan/ADK/emulator/disk/widgetone/widgetapp/test/android_iphone/head.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"D:\\Dropbox\\Project\\joysound\\app",
+			"D:\\Dropbox\\Project\\joysound\\python",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pop",
+			"cos",
+			"r",
+			"runit",
+			"d",
+			"Colors",
+			"next",
+			"length",
+			"min",
+			"gradient",
+			"color_list",
+			"push",
+			"this",
+			"c2",
+			"h",
+			"c",
+			"lightness",
+			"saturation",
+			"h",
+			"lightness",
+			"saturation",
+			"(int)",
+			"parseInt",
+			"int",
+			"border",
+			"▅",
+			"1a1a1a",
+			"111",
+			"黑体",
+			"circle,#000,#111",
+			"ie_ver",
+			"color",
+			"lightness",
+			"saturation",
+			"lightness",
+			"function",
+			"min",
+			"center",
+			"Recent",
+			"width",
+			"radius",
+			"wrap_diameter",
+			"min",
+			"width",
+			"height",
+			"radius",
+			"wrap_diameter",
+			"vertical",
+			"align",
+			"padding",
+			"wrap",
+			"nav",
+			"min",
+			"inner",
+			"half",
+			"width",
+			"section",
+			"{",
+			"title",
+			"div",
+			"section",
+			"Oreeeeeeez",
+			"Project",
+			"h1",
+			"td><img",
+			"br",
+			"」",
+			"333399",
+			"00ff00",
+			" border=\"0\" alt=\"\"",
+			"\n						",
+			" style=\"color:#333399;\"",
+			" style=\"color:#00ff00;\"",
+			" style=\"color:#ff0000;\"",
+			" style=\"color:#3366ff;\"",
+			" border=\"0\" alt=\"\" width=\"256\" height=\"80\"",
+			"title",
+			"Timer",
+			"lambda",
+			"self",
+			"button_list",
+			"GenerateButtonCB",
+			"btn_cfg",
+			"button",
+			"flat_btn",
+			"BITMAP_TYPE_BMP",
+			"bmp",
+			"PlateButton",
+			"as",
+			"import",
+			"test",
+			"lambda_list",
+			"i",
+			"callback_list",
+			"Add",
+			"callback_list",
+			"callbacks_list",
+			"callback_list",
+			"del_button",
+			"editor",
+			"static",
+			"pprint",
+			"traceback",
+			"urllib2",
+			"json",
+			"threading",
+			"Queue",
+			"Resource",
+			"traceback",
+			"json",
+			"Run",
+			"queue",
+			"status",
+			"RUNNING",
+			"IDLE",
+			"LOCKED",
+			"IDLE",
+			"callback",
+			"Resource",
+			"'Memoriz'",
+			"Resource",
+			"APP_NAME",
+			"Toggle",
+			"OnGlobalHotkey",
+			"OnClose",
+			"OnKeyDown",
+			"OnAddMemo",
+			"memo_list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"█",
+			"",
+			"	",
+			"",
+			"mobile",
+			"song['$1']",
+			"like_type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "windows/main.py",
+					"settings":
+					{
+						"buffer_size": 3312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "windows/memo.py",
+					"settings":
+					{
+						"buffer_size": 4389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3258,
+								3258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "windows/sync.py",
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "windows/dialog.py",
+					"settings":
+					{
+						"buffer_size": 2840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2742,
+								2742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 953.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "windows/resource.py",
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "windows/constant.py",
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 200.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true
+}
